@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-793508a4","path":"/software/softwareUsage.html","title":"shadowsocks","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1709803980000,"contributors":[{"name":"Warren","email":"warrenemb@163.com","commits":1}]},"filePathRelative":"software/softwareUsage.md"}');export{e as data};

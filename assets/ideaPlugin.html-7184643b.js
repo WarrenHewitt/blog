@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-0fad7c56","path":"/backEnd/java/ideaPlugin.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"插件","slug":"插件","link":"#插件","children":[]}],"git":{"updatedTime":1709803980000,"contributors":[{"name":"Warren","email":"warrenemb@163.com","commits":1}]},"filePathRelative":"backEnd/java/ideaPlugin.md"}');export{a as data};

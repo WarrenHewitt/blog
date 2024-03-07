@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-f785aee2","path":"/software/","title":"软件的一些用法","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1709803980000,"contributors":[{"name":"Warren","email":"warrenemb@163.com","commits":1}]},"filePathRelative":"software/README.md"}');export{e as data};

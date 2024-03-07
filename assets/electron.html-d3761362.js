@@ -1,0 +1,3 @@
+import{_ as o,p as c,q as n,Q as r,R as e,t}from"./framework-7e1a102e.js";const a={},s=e("p",null,"electron-forge 是一个用于打包和分发 Electron 应用程序的工具 是一个脚手架程序(和create-react-app类似)",-1),l=e("p",null,"cookie 存放会有问题",-1),d=e("h2",{id:"demo-项目",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#demo-项目","aria-hidden":"true"},"#"),t(" demo 项目")],-1),_=e("p",null,[t("根据官网操作 使用 npm 安装 "),e("code",null,"https://www.electronjs.org/docs/latest/tutorial/quick-start")],-1);function i(h,m){return c(),n("div",null,[r(`
+ * @LastEditTime: 2023-01-05 12:25:25
+`),s,l,d,_])}const u=o(a,[["render",i],["__file","electron.html.vue"]]);export{u as default};

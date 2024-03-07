@@ -1,0 +1,3 @@
+import{_ as e,p as t,q as a,Q as r,a1 as o}from"./framework-7e1a102e.js";const c={},n=o('<h1 id="vmware-用法" tabindex="-1"><a class="header-anchor" href="#vmware-用法" aria-hidden="true">#</a> VMware 用法</h1><p>VMware Workstation Player 免费版 功能少一点</p><p>下载 https://www.vmware.com/cn/products/workstation-player.html</p><p>安装后打开 选择非商用 即可免费使用</p><p>创建新虚拟机 按步骤创建即可 报错 <code>此主机支持 AMD-V，但 AMD-V 处于禁用状态</code> 需要进入系统设置 百度即可</p><p>开始进入安装操作系统，按操作一步步进行即可，用的 boot 版 会下载等待一段时间</p><p>ctrl + g 进入虚拟机操作界面 ctrl + alt 退出虚拟机操作界面</p><p>挂起，无法连接服务</p><ul><li>安装 Ubuntu 下早镜像后 直接默认安装即可</li></ul>',9);function p(l,s){return t(),a("div",null,[r(`
+ * @LastEditTime: 2022-08-09 11:10:59
+`),n])}const d=e(c,[["render",p],["__file","vMware.html.vue"]]);export{d as default};

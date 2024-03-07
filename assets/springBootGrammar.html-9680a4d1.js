@@ -1,0 +1,3 @@
+import{_ as a,p as n,q as o,Q as r,R as e,t}from"./framework-7e1a102e.js";const s={},i=e("h2",{id:"引导类",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#引导类","aria-hidden":"true"},"#"),t(" 引导类")],-1),l=e("ol",null,[e("li",null,"引入注解 @SpringBootApplication"),e("li",null,"编写main方法"),e("li",null,"执行SpringApplication.run方法")],-1),c=e("h2",{id:"静态文件",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#静态文件","aria-hidden":"true"},"#"),t(" 静态文件")],-1),d=e("p",null,"可以放以下三个文件夹，优先级 resources > static > public",-1),_=e("p",null,"templates 文件夹需要单独设置 spring-boot-starter-thymeleaf 依赖",-1);function h(p,m){return n(),o("div",null,[r(`
+ * @LastEditTime: 2022-11-03 20:44:56
+`),i,l,c,d,_])}const f=a(s,[["render",h],["__file","springBootGrammar.html.vue"]]);export{f as default};

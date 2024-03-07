@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-35d86958","path":"/frontEnd/html/animate.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"动画","slug":"动画","link":"#动画","children":[]}],"git":{"updatedTime":1709803980000,"contributors":[{"name":"Warren","email":"warrenemb@163.com","commits":1}]},"filePathRelative":"frontEnd/html/animate.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-ce5327bc","path":"/backEnd/java/application.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"配置","slug":"配置","link":"#配置","children":[]}],"git":{"updatedTime":1709803980000,"contributors":[{"name":"Warren","email":"warrenemb@163.com","commits":1}]},"filePathRelative":"backEnd/java/application.md"}');export{a as data};
